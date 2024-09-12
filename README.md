@@ -1,6 +1,6 @@
 # TCC
-Trabalho de conclusão de curso pela Universidade Municipal de São Caetano do Sul.
+Trabalho de conclusão de curso.
 
 # INTEGRANTES
 
-Yuri de Melo Manssur - RA: 
+Yuri de Melo Manssur
