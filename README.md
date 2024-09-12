@@ -5,6 +5,21 @@ Trabalho de conclusão de curso.
 
 Yuri de Melo Manssur
 
+# TECNOLOGIAS
+- REACT
+- NODE.JS
+- MySQL
+- HTML
+- CSS
+
+# FERRAMENTAS
+- XAMPP
+- MySQL WOEKBENCH
+- VISUAL STUDIO CODE
+- GIT
+- GITHUB
+- JIRA
+
 # COMO CONFIGURAR
 
 - Baixe o Visual Studio Code
